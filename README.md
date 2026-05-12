@@ -6,24 +6,26 @@ If you are planning to use this repo for reference, please hit the star. Thanks!
 
 The Kubernetes Learning Roadmap is constantly updated with new content, so you can be sure that you're getting the latest and most up-to-date information available. 
 
-## Kubernetes Certification Voucher (UpTo 45% OFF) 🎉
+## Kubernetes Certification Voucher (UpTo 60% OFF) 🎉
 
 If you are learning Kubernetes and preparing for Kubernetes certifications, these voucher codes will help you save money on your certification registration.
 
-CKA, CKAD, CKS, KCNA etc.. aspirants can **save 35%** today
+CKA, CKAD, CKS, KCNA etc.. aspirants can **save 50%** today
 
 > [!IMPORTANT]
-> Use code **35KUBECT** at https://kube.promo/devops. It is a limited-time offer from the Linux Foundation.
+> Use code **MM26CCCT** at https://kube.promo/devops. It is a limited-time offer from the Linux Foundation.
 
-The following are the best bundles to **save upto 45%** with code **35KUBESC**
+Use code code **MM26BUNCT** with the following Kubernetes bundles to **save 60%**
 
 - CKA + CKAD: [kube.promo/cka-ckad](https://kube.promo/cka-ckad)
 - CKA + CKS Bundle: [kube.promo/bundle](https://kube.promo/bundle)
 - CKA + CKAD + CKS Exam bundle: [kube.promo/k8s-bundle](https://kube.promo/k8s-bundle)
-- KCNA + KCSA + CKA + CKAD + CKS: [kube.promo/kubestronaut](https://kube.promo/kubestronaut)
 - KCNA + CKA: [kube.promo/kcka-bundle](https://kube.promo/kcna-cka)
 - KCSA + CKS Exam Bundle: [kube.promo/kcsa-cks](https://kube.promo/kcsa-cks)
 - KCNA + KCSA Exam Bundle: [kube.promo/kcna-kcsa](https://kube.promo/kcna-kcsa)
+
+> [!IMPORTANT]
+Use code **MM26K8BUNCT** Kubestronaut Bundle [kube.promo/kubestronaut](https://kube.promo/kubestronaut)
 
 > [!NOTE]
 >⌛ Act fast—this limited-time offer won’t be around much longer!
